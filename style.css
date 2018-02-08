@@ -1,0 +1,14 @@
+div {
+	size: 15px;
+	text-align: center;
+	margin: 20px;
+	border-style: groove;
+	border-color: blue;
+	border-radius: 50px;
+}
+
+img {
+	height: 100px;
+    width: 100px;
+}
+
